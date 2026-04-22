@@ -15,3 +15,5 @@ menu.addEventListener("click", (e) => {
 });
 
 console.log("hello world!");
+
+console.log("welcom in the new feature");
