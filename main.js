@@ -13,3 +13,7 @@ menu.addEventListener("click", (e) => {
         e.target.classList.add("active");
     }
 });
+
+console.log("hello world!");
+
+console.log("welcom in the new feature");
